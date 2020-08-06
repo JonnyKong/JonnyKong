@@ -2,4 +2,4 @@
 
 I am a PhD student in Purdue Computer Engineering, working in the Distributed Systems & Networking Lab led by Prof. Y. Charlie Hu.
 
-Previously, I obtained by M.S. in UCLA CS and B.S. in Beihang EE.
+Previously, I obtained my M.S. in UCLA CS and B.S. in Beihang EE.
